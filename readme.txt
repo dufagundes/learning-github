@@ -1,1 +1,3 @@
-Learnig Git using command line
+Learnig Git using command line.
+
+commands git status
